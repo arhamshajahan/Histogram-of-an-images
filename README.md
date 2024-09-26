@@ -24,8 +24,8 @@ The Histogram of gray scale image and color image is shown.
 
 ## Program:
 ```
-# Developed By: SANJAY S
-# Register Number: 212222230132
+# Developed By: ARHAM S
+# Register Number: 212222110005
 
 
 !pip install opencv-python
